@@ -1,4 +1,4 @@
-![Logo Sharks attacks](https://github.com/crisgo-data/data-cleaning-sharks-attack/blob/main/imagenes/sHARKS.png"Project to present")
+![Logo Sharks attacks](https://github.com/crisgo-data/data-cleaning-sharks-attack/blob/main/imagenes/sHARKS.png "Project to present")
 
 En este proyecto tenemos como objetivo saber el porcentaje de ataques de tiburones que acaban en muerte en USA y su variación por decadas. Para ello vamos a limpiar los datos de la tabla, tomando decisiones y dando una respuesta final a esta pregunta.
 
@@ -167,4 +167,6 @@ La respuesta a nuestro Objetivo:
 
 Porcentaje de ataques fatales en USA: 9.036697247706423 %
 
+
+!.[Tabla USA Fatal] (https://github.com/crisgo-data/data-cleaning-sharks-attack/blob/main/imagenes/tabla%20USA.jpg "Muertes por decadas en EEUU"
 
