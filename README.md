@@ -162,10 +162,12 @@ Al terminar mi limpieza mi SHAPE final es: (6008, 24)
 
 
 
+OBJETIVO:
+
 La respuesta a nuestro Objetivo:
 
 
-Porcentaje de ataques fatales en USA: 9.036697247706423 %
+Porcentaje de ataques fatales en USA: De 2180  9.036697247706423 % acabaron en Muerte.
 
 
 ![Tabla_USA_Fatal](https://github.com/crisgo-data/data-cleaning-sharks-attack/blob/main/imagenes/tabla%20USA.jpg "Muertes por decadas en EEUU")
