@@ -167,7 +167,7 @@ OBJETIVO:
 La respuesta a nuestro Objetivo:
 
 
-Porcentaje de ataques fatales en USA: De 2180  9.036697247706423 % acabaron en Muerte.
+Porcentaje de ataques fatales en USA: De 2180 el  9.036697247706423 % acabaron en Muerte.
 
 
 ![Tabla_USA_Fatal](https://github.com/crisgo-data/data-cleaning-sharks-attack/blob/main/imagenes/tabla%20USA.jpg "Muertes por decadas en EEUU")
